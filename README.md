@@ -1,2 +1,2 @@
-# Pong
-Simple pong game
+# Game
+Make Game
